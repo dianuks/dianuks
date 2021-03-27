@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dianuks
-- 👀 I’m interested in web design, NLP and working with Python & R, and just learning more.
+- 👀 I’m interested in web design, UI/UX and working with Python, and just learning more.
 - 🌱 I’m studying a Bsc in Int. business administration, with minor in Digital Humanities & Social Analytics.  
 - :blossom:Currently, I am focusing on Web development by doing FreeCodeCamp certification & projects, and on a bigger scale following the Odin Project's path.
 - 💞️ I’m looking to collaborate on entry level project parts :)
